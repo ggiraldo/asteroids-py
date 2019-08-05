@@ -2,6 +2,7 @@
 Asteroids game in python with Q Learning AI player
 
 Run main.py to play regular game
+
 Run train.py to train ai
 
 ## ToDo
@@ -9,3 +10,9 @@ Run train.py to train ai
 - Train AI and debug
 - Save trained AI
 - Develop AI player
+
+## Prerequisites
+
+- pygame
+- tensorflow
+- numpy
